@@ -6,7 +6,7 @@ Servo servo2;
 
 void setup() {
   servo1.attach(9);   // Servo 1 nối chân số 9
-  servo2.attach(8);  // Servo 2 nối chân số 8
+  
 }
 
 void loop() {
